@@ -1,0 +1,36 @@
+body{
+    margin-top: 0;
+    font-family: sans-serif;
+}
+.container{
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 700px;
+    background-color: beige;
+    padding: 20px 50px ;
+    line-height: 0.8;
+    box-shadow: 3px 5px 15px 3px #eee;
+    background-color:#fff;
+}
+.container2 {
+    margin-left: 40px;
+    
+}
+h4{
+    font-size: 22px;
+    margin-bottom: 0;
+    margin-top: 40px;
+}
+p{
+    font-size: 18px;
+}
+.desc {
+    margin-top: 50px;
+    line-height: 0.8;
+}
+.desc a{
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+}
